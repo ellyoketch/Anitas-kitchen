@@ -1,0 +1,60 @@
+
+body{
+    background-color: white;
+}
+#first{
+    padding: 1%;
+    line-height: 1px;
+
+
+}
+#second{
+    padding: 1%;
+    background-color: tomato;
+    color: white;
+}
+#div.bst{
+    background-image: url(./assets/foodtop/breakfast.jpg);
+    text-align: center;
+    color: white;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+.p{
+    text-align: center;
+}
+.logo1{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20%;
+    float: right;
+
+    
+}
+#img1{
+    background-image: url(./assets/backgrounds/landing.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    text-align: center;
+    height: auto;
+    margin-bottom: 0%;
+}
+#menu{
+    position: relative;
+    background-color: tomato;
+
+
+    
+}
+#image-container{
+    display: inline;
+    grid-template-rows: repeat(2, 1fr);
+    align-items: flex-start;
+    flex-direction: row;
+}
+#footer-images{
+display: inline;
+}
