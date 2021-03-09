@@ -24,12 +24,15 @@ body{
 .p{
     text-align: center;
 }
-.logo1{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    height: 20%;
-    float: right;
+#header{
+    text-align: center;
+    background-image: url(./assets/backgrounds/landing.jpg);
+    padding:20px ;
+  }
+  
+  span{
+      color:white;
+  }
 
     
 }
