@@ -13,13 +13,11 @@ body{
     background-color: tomato;
     color: white;
 }
-#div.bst{
+.breakfast{
     background-image: url(./assets/foodtop/breakfast.jpg);
     text-align: center;
     color: white;
-    flex-direction: column;
-    display: flex;
-    justify-content: center;
+
 }
 .p{
     text-align: center;
@@ -46,7 +44,7 @@ body{
     margin-bottom: 0%;
 }
 #menu{
-    position: relative;
+    text-align: center;
     background-color: tomato;
 
 
